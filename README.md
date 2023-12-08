@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sahil Krishna</h1>
 <h3 align="center">A passionate Software Engineer & Full Stack Web Developer</h3>
 
-<img align="right" alt="Coding" width="100%" src="https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif">
+<img  alt="Coding"  src="https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif" style="margin-left: auto;  
+  margin-right: auto;  width: 90%;"/>
+
 
 ## 🚀 About Me
 
